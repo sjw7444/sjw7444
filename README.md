@@ -1,14 +1,13 @@
-- 👋 Hi, I’m @sjw7444
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# [Jim Woodroffe](https://woodroffe.com)
+
+Welcome to my public GitHub profile and I don't get to do much hands on [coding anymore](http://www.linkedin.com/in/jimwoodroffe).
+
+I hack together small apps to make my life simpler. Such as [Boston Food Trucks](https://bostonfoodtrucks.co/) to help me find lunch (formerly), a white-noise app called [Sssh...Sleeping](https://sssh.electricpants.com/) to sleep a little better while traveling, and [Apple Wallet powered Electronic Business Cards](https://electricpants.com/).
 
 <!---
 sjw7444/sjw7444 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
 
 ## Highly Recommended Reading ##
 
