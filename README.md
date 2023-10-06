@@ -44,3 +44,12 @@ This is a collection of work related articles that I gathered over the years tha
 - [Just Culture: Restoring Trust and Accountability in Your Organization, Third Edition](https://a.co/d/774iSez)
 - [The First 90 Days, Updated and Expanded: Proven Strategies for Getting Up to Speed Faster and Smarter](https://a.co/d/gToCAEi)
 - [The Staff Engineer's Path](https://a.co/d/eS578zM)
+
+### Managing Managers
+- [Advice for new directors](https://www.rubick.com/advice-for-new-directors/)
+- [Everyone lies to leaders](https://www.rubick.com/everyone-lies-to-leaders/)
+- [Managing through Managers](https://www.theengineeringmanager.com/managing-managers/managing-through-interfaces/)
+
+### Leading
+- [Completed staff work](https://www.rubick.com/completed-staff-work/)
+
