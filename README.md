@@ -41,4 +41,6 @@ This is a collection of work related articles that I gathered over the years tha
 
 ### Organizational Behavior ###
 - [Coordination Headwind](https://komoroske.com/slime-mold/) - How Organizations are Like Slime Molds
-- [Just Culture](https://www.amazon.com/Just-Culture-Restoring-Accountability-Organization-ebook/dp/B07H9G6L68/) - Restoring Trust and Accountability in Your Organization about the value of blameless Incident reviews
+- [Just Culture: Restoring Trust and Accountability in Your Organization, Third Edition](https://a.co/d/774iSez)
+- [The First 90 Days, Updated and Expanded: Proven Strategies for Getting Up to Speed Faster and Smarter](https://a.co/d/gToCAEi)
+- [The Staff Engineer's Path](https://a.co/d/eS578zM)
