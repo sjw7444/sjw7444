@@ -20,8 +20,8 @@ This is a collection of work related articles that I gathered over the years tha
 - [Lead Bullets](https://a16z.com/2011/11/13/lead-bullets/)
 
 ### Greg Wilson - Canadian University Software Engineering Conference 2010 Keynote (Video ~1hr)
-- [What We Actually Know About Software Development, and Why We Believe It’s True](https://vimeo.com/9270320)
-- (Sadly that link doesn't work any more but it was a great talk)
+- [What We Actually Know About Software Development, and Why We Believe It’s True - original link is defunct](https://vimeo.com/9270320)
+- [Revised Talk that is a little shorter but a little dryer](https://www.youtube.com/watch?v=HrVtA-ue-x0)
 
 ### Studies on Code Review Practices ### 
 - [Characteristics of Useful Code Reviews: An Empirical Study at Microsoft](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/bosu2015useful.pdf)
