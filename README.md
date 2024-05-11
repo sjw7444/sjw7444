@@ -1,6 +1,6 @@
 # [Jim Woodroffe](https://woodroffe.com)
 
-Welcome to my public GitHub profile. While I don't get to do much hands on [coding anymore](http://www.linkedin.com/in/jimwoodroffe), I do hack together small apps to make my life simpler. Such as [Boston Food Trucks](https://bostonfoodtrucks.co/) ([iOS](https://apps.apple.com/us/app/id1523600887)) to help me find lunch (formerly), a white-noise app called [Sssh...Sleeping](https://sssh.electricpants.com/) ([iOS](https://apps.apple.com/us/app/id1523600887)) to sleep a little better while traveling, and [Apple Wallet powered Electronic Business Cards](https://electricpants.com/).
+Welcome to my public GitHub profile. While I don't get to do much hands on [coding anymore](http://www.linkedin.com/in/jimwoodroffe), I do hack together small apps to make my life simpler. Such as [Boston Food Trucks](https://bostonfoodtrucks.co/) ([iOS](https://apps.apple.com/us/app/id570484087)) to help me find lunch (formerly), a white-noise app called [Sssh...Sleeping](https://sssh.electricpants.com/) ([iOS](https://apps.apple.com/us/app/id1523600887)) to sleep a little better while traveling, and [Apple Wallet powered Electronic Business Cards](https://electricpants.com/).
 
 <!---
 sjw7444/sjw7444 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
