@@ -2,9 +2,9 @@
 
 Welcome to my public GitHub profile. While I don't get to do much hands on [coding anymore](http://www.linkedin.com/in/jimwoodroffe), I do hack together small apps to make my life simpler:
 
-- **[Electric Pants](https://electricpants.com/)** — A mindful RSS reader to stop doom scrolling and start reading [![App Store](https://img.shields.io/badge/App_Store-000000?style=flat&logo=apple&logoColor=white)](https://apps.apple.com/app/electric-pants/id6756977663)
-- **[Meeting Cat](https://meetingcat.app/)** — AI-powered meeting companion that records, transcribes, and organizes every meeting [![App Store](https://img.shields.io/badge/App_Store-000000?style=flat&logo=apple&logoColor=white)](https://apps.apple.com/us/app/meeting-cat/id6751990792)
-- **[Peace and Quiet](https://peace.electricpants.com/)** — A simple white-noise app to help you sleep better while traveling [![App Store](https://img.shields.io/badge/App_Store-000000?style=flat&logo=apple&logoColor=white)](https://apps.apple.com/us/app/peace-and-quiet/id1523600887)
+- **[Electric Pants](https://electricpants.com/)** — A mindful RSS reader to stop doom scrolling and start reading [![App Store](https://img.shields.io/badge/-App_Store-black?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/app/electric-pants/id6756977663)
+- **[Meeting Cat](https://meetingcat.app/)** — AI-powered meeting companion that records, transcribes, and organizes every meeting [![App Store](https://img.shields.io/badge/-App_Store-black?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/meeting-cat/id6751990792)
+- **[Peace and Quiet](https://peace.electricpants.com/)** — A simple white-noise app to help you sleep better while traveling [![App Store](https://img.shields.io/badge/-App_Store-black?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/peace-and-quiet/id1523600887)
 
 ## Highly Recommended Reading
 
