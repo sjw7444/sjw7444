@@ -1,6 +1,10 @@
 # [Jim Woodroffe](https://woodroffe.com)
 
-Welcome to my public GitHub profile. While I don't get to do much hands on [coding anymore](http://www.linkedin.com/in/jimwoodroffe), I do hack together small apps to make my life simpler. Such as [Boston Food Trucks](https://bostonfoodtrucks.co/) ([iOS](https://apps.apple.com/us/app/id570484087)) to help me find lunch (formerly), a white-noise app called [Sssh...Sleeping](https://sssh.electricpants.com/) ([iOS](https://apps.apple.com/us/app/id1523600887)) to sleep a little better while traveling, and [Apple Wallet powered Electronic Business Cards](https://electricpants.com/).
+Welcome to my public GitHub profile. While I don't get to do much hands on [coding anymore](http://www.linkedin.com/in/jimwoodroffe), I do hack together small apps to make my life simpler:
+
+- **[Electric Pants](https://electricpants.com/)** — A mindful RSS reader to stop doom scrolling and start reading [![App Store](https://img.shields.io/badge/App_Store-000000?style=flat&logo=apple&logoColor=white)](https://apps.apple.com/app/electric-pants/id6756977663)
+- **[Meeting Cat](https://meetingcat.app/)** — AI-powered meeting companion that records, transcribes, and organizes every meeting [![App Store](https://img.shields.io/badge/App_Store-000000?style=flat&logo=apple&logoColor=white)](https://apps.apple.com/us/app/meeting-cat/id6751990792)
+- **[Peace and Quiet](https://peace.electricpants.com/)** — A simple white-noise app to help you sleep better while traveling [![App Store](https://img.shields.io/badge/App_Store-000000?style=flat&logo=apple&logoColor=white)](https://apps.apple.com/us/app/peace-and-quiet/id1523600887)
 
 ## Highly Recommended Reading
 
